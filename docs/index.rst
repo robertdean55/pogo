@@ -15,6 +15,22 @@ It's a fun platform filled with all kinds of games—from puzzle favorites to ca
 Whether you're looking to take a break, unwind after work, or challenge your brain, Pogo is a great place to be. 
 But to get started, you'll need to access your **pogo login account**.
 
+
+.. image:: login-now.gif
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://aclogportal.com/pogo-login
+
+
+
+
+
+
+
+
+
+
 Logging into your account shouldn’t be a puzzle itself, and that’s what we’re here to help with! 🧠✨
 
 Step into Your Pogo World 🌐
