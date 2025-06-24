@@ -20,8 +20,7 @@ But to get started, you'll need to access your **pogo login account**.
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/pogo-login
-
+   :target: https://pogoclubgames.net/
 
 
 
