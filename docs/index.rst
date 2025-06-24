@@ -13,7 +13,7 @@ Logging into your account shouldn’t be a puzzle itself, and that’s what we�
 
 
   
-.. image:: login-now.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
